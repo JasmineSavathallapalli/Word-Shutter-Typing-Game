@@ -12,6 +12,6 @@ Type the falling words correctly before they hit the bottom of the screen to sco
 
 1. Install [Pygame](https://www.pygame.org/wiki/GettingStarted):
    ```bash
- pip install pygame
+   pip install pygame
 2. Run the game
    python "Word Shutter Typing Game.py"
